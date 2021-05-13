@@ -1,0 +1,133 @@
+.imgClass {
+  border-radius: 157px;
+  width: 15rem !important;
+}
+.w-46 {
+  height: 14rem !important;
+    width: 14rem !important;
+}
+label {
+  color: #474747 !important;
+  font-size: 17px !important;
+  font-weight: 600 !important;
+}
+.mr-l-20 {
+  margin-left: 20px !important;
+}
+.labeltxt {
+  color: #474747 !important;
+  font-size: 17px !important;
+  font-weight: 600 !important;
+}
+.hederText{
+  text-align: center;
+  color: #474747 !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+}
+.scrollTabel {
+  height: 663px;
+  overflow: auto;
+}
+.width-auto {
+  width: auto !important;
+}
+.pd-4 {
+  padding-bottom: 1.5rem!important;
+  padding-left: 1.5rem!important;
+  padding-right: 1.5rem!important;
+  background-color: aliceblue  !important;
+}
+.pdtb {
+  padding-bottom: 0.5rem!important;
+  padding-top: 0.5rem!important;
+}
+.card{
+  border: none  !important;
+  background-color: aliceblue !important;
+}
+.navpadding{
+  padding-left: 14.25rem;
+  padding-right: 14.25rem;
+}
+.tabelpadding {
+  padding-left: 7.25rem;
+  padding-right: 7.25rem;
+}
+.customerName{
+    letter-spacing: 0.00px;
+    color: #797979 !important;
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 1.70rem !important;
+    font-weight: 700  !important;
+    font-style: normal;
+    font-family: 'Lato';
+    vertical-align: initial;
+    white-space: normal !important;
+    margin-bottom: 0rem !important;
+}
+.customerdetails{
+  letter-spacing: 0.00px;
+  color: #797979 !important;
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 1.15rem !important;
+  font-weight: 600  !important;
+  font-style: normal;
+  font-family: 'Lato';
+  vertical-align: initial;
+  white-space: normal !important;
+}
+.customerfilds{
+  letter-spacing: 0.00px;
+  color: #797979 !important;
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 1.15rem !important;
+  font-weight: 600  !important;
+  font-style: normal;
+  font-family: 'Lato';
+  vertical-align: initial;
+  white-space: normal !important;
+}
+
+
+
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
