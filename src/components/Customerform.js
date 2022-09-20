@@ -42,7 +42,7 @@ function Customerform() {
                 <div className="card border-0 shadow p-4 w-50 mx-auto">
                     <form onSubmit={handleSubmit(onSubmit)}>
                         <div className="hederText">
-                            Add Customer new one
+                            Add Customer
                         </div>
                         <div className="form-group">
                             <label htmlFor="firstName">First Name</label>
@@ -63,10 +63,10 @@ function Customerform() {
                         <div className="from-group" style={{ marginBottom: " 1rem" }}>
                             <label htmlFor="occupation">Occupation</label>
                             <select id="occupation" placeholder="Select Occupation" className={classNames("custom-select form-control", { "is-invalid": errors.occupation })} {...register('occupation', { required: "Occupation is required" })}>
-                                <option value="">Select Occupations</option>
+                                <option value="">Select Occupation</option>
                                 <option value="Employed">Employed</option>
                                 <option value="Business">Business</option>
-                                <option value="Student">Students</option>
+                                <option value="Student">Student</option>
                             </select>
                             {errors.occupation &&
                                 (<div className="invalid-feedback">{errors.occupation.message}</div>
