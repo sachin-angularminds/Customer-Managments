@@ -42,7 +42,7 @@ function Customerform() {
                 <div className="card border-0 shadow p-4 w-50 mx-auto">
                     <form onSubmit={handleSubmit(onSubmit)}>
                         <div className="hederText">
-                            Add Customer New
+                            Add Customer
                         </div>
                         <div className="form-group">
                             <label htmlFor="firstName">First Name</label>
